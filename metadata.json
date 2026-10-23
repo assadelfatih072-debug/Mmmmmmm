@@ -1,0 +1,6 @@
+{
+  "name": "HaemaQuest - 70 Haematology Exam & Study Suite",
+  "description": "Comprehensive Haematology Examination and Interactive Study Platform featuring 70 high-yield board-style MCQs, timed exam simulation, study mode with clinical rationales, flashcards, performance analytics, and Arabic/English language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
